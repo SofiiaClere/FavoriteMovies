@@ -1,0 +1,26 @@
+body {
+    margin-top: 50px;
+    margin-left: 50px;
+    background-color: #ECF2FF;
+}
+h1 {
+        font-size: 35px;
+        color: #3A1078;
+
+}
+
+.cast {
+    color: #49419e;
+}
+
+.btn {
+    background-color:#655DBB;
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 10px;
+   }
+
+.btn:hover {
+    cursor: pointer;
+    background-color: #49419e;
+}
